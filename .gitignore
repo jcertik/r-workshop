@@ -1,0 +1,8 @@
+# R files to ignore
+.Rhistory
+.RData
+.Rproj.user/
+
+# Mac / Windows junk
+.DS_Store
+Thumbs.db
